@@ -1,0 +1,27 @@
+{
+    "id": "A9D71044",
+    "path": "~/dicho.cor.xy/R/dicho_cor_xy.R",
+    "project_path": "R/dicho_cor_xy.R",
+    "type": "r_source",
+    "hash": "4047769238",
+    "contents": "",
+    "dirty": false,
+    "created": 1674147253507.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,4",
+        "scrollLine": "9"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675593748,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675593748435,
+    "read_only": false,
+    "read_only_alternatives": []
+}
